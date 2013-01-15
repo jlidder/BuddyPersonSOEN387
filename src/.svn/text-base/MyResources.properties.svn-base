@@ -1,0 +1,8 @@
+mySqlHostName=localhost:3306
+mySqlUserName=root
+mySqlPassword=
+mySqlDatabase=cdcol?characterEncoding=utf8
+mySqlTablePrefix=
+ConcreteRole_1=org.dsrg.soenea.domain.role.impl.GuestRole
+ConcreteRole_2=domain.model.role.StudentRole
+ConcreteRole_3=domain.model.role.AdminRole
